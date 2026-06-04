@@ -1,2 +1,39 @@
-# RockPaperScissor
-🎮 A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript featuring score tracking and interactive gameplay.
+# Rock Paper Scissors Game 🎮
+
+A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
+
+## Features
+
+* Play against the computer
+* Random computer move generation
+* Real-time game result display
+* Score tracking for wins, losses, and ties
+* Responsive and user-friendly interface
+* Reset score functionality
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+## How to Play
+
+1. Click on **Rock**, **Paper**, or **Scissors**.
+2. The computer will randomly choose its move.
+3. The winner is determined according to the rules:
+
+   * Rock beats Scissors
+   * Scissors beats Paper
+   * Paper beats Rock
+4. The result and updated score will be displayed on the screen.
+
+## Project Structure
+
+```text
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
