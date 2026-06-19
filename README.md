@@ -2,6 +2,9 @@
 
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
+## live demo
+https://abhasinghbaghela.github.io/RockPaperScissor/
+
 ## Features
 
 * Play against the computer
