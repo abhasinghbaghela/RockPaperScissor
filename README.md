@@ -3,7 +3,7 @@
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## live demo
-https://abhasinghbaghela.github.io/RockPaperScissor/
+https://rock-paper-scissor-wheat-seven.vercel.app/
 
 ## Features
 
